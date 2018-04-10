@@ -54,4 +54,24 @@ Jl. Semarang No. 5 Malang 65145
 2.6 Dokumentasi Bagi Pengguna
 2.7 Asumsi dan Ketergantungan
 
+5. Kebutuhan
+5.1 Kebutuhan Fungsional
+    •	Pengguna dapat menginput data pada sistem F-SHIP
+    •	Pengguna dapat melihat posisi dari pengiriman barang yang telah dikirim
+    •	Sistem bekerjasama dengan Bank sebagai media pembayaran untuk pembeli
+    •	Sistem menyediakan fitur yang bertujuan untuk memudahkan pengguna
+    •	Sistem dapat menyimpan data dari anggota
+    •	Sistem dapat menyimpan segala transaksi yang dilakukan oleh pengguna.
+5.2 Kebutuhan Non-Fungsional
+    •	Sistem memiliki tampilan menarik dan tidak membosankan
+    •	Sistem dapat dijalankan pada smartphone dengan platform android
+    •	Sistem mengupdate data tidak lebih dari 10 detik 
+    •	Sistem menjamin data yang diakses oleh pengguna aman
+    •	Sistem menyimpan data pada data base yang telah ditentukan
+    •	Smartphone yang digunakan memiliki RAM berkapasitas 1 GB
+    •	Smartphone memiliki memori 8 GB
+
+
+    
+
     
