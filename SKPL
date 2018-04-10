@@ -79,8 +79,8 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
 •	Aplikasi dapat diakses jika terhubung dengan jaringan Internet dengan menggunakan web browser.
 •   API E-banking.
 
-5. Kebutuhan
-5.1 Kebutuhan Fungsional
+4. Kebutuhan
+4.1 Kebutuhan Fungsional
 
                         https://drive.google.com/open?id=12WZi7bjeojN9Jw2jrO1AJ2qGhmmNodi2
                         
@@ -96,6 +96,28 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
                         https://drive.google.com/open?id=1B4pBUoovzQ9XxyLUkNhzlyMnfSPLN_Ej 
                         
                                             Gambar 2. Diagram Level 1
+4.1.1 Deskripsi Proses
+4.1.1.1 Proses 1
+	PSPEC 1.1 Membuat Order
+	Pengguna membuat order untuk pertamina
+	Masukan : Data Order
+	Keluaran : Informasi order
+4.1.1.2 Proses 2
+	PSPEC 1.2 Memproses Order
+	Pertamina mendapat order dari pengguna
+	Masukan : Info Order
+	Keluaran : Laporan order
+4.1.1.3 Proses 3
+    PSPEC 1.3 Proses pembayaran
+	Pengguna akan menerima konfirmasi pembayaran
+	Masukan : Form pembayaran
+	Keluaran : Konfirmasi pembayaran
+4.1.1.4 Proses 4
+    PSPEC 1.4 Membuat Laporan pengiriman
+	Pertamina membuat laporan pengiriman barang
+	Masukan : Data Pengiriman
+	Keluaran : Informasi pengiriman
+
                                             
 5.2 Kebutuhan Non-Fungsional
     •	Sistem memiliki tampilan menarik dan tidak membosankan
