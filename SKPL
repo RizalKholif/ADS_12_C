@@ -58,21 +58,17 @@ Jl. Semarang No. 5 Malang 65145
     Perangkat Lunak F-Ship membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
 3.1.1 Antarmuka Pemakai
     User interface yang digunakan untuk mengoperasikan Perangkat Lunak F-Ship antara lain :
-•	Tampilan awal web
+•	Tampilan awal
 •	Tampilan pendaftaran
 •	Tampilan sign in
 •	Tampilan form pembelian
 •	Tampilan pelacakan barang
 •	Tampilan metode pembayaran
-
     Alat – alat yang mendukung antarmuka pemakai adalah sebagai berikut.
-•	Keyboard
-•	Mouse
-•	Monitor
 •	Smartphone
 3.1.2 Antarmuka Perangkat Lunak
 Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak antara lain :
-•	Aplikasi dapat diakses jika terhubung dengan jaringan Internet.
+•	Aplikasi dapat diakses jika terhubung dengan jaringan Internet dan memiliki Sistem Operasi Android.
 
 5. Kebutuhan
 5.1 Kebutuhan Fungsional
