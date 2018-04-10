@@ -5,8 +5,8 @@ Sistem Informasi Pendistribusian Bahan Bakar Kapal (F-SHIP)
 
 
 Dipersiapkan oleh:
-Puji Santoso 		(150535601537)
-Putri Yula W 		(150535605564)
+Puji Santoso 		   (150535601537)
+Putri Yula W 		   (150535605564)
 Rizal Kholif Nurrohman (150535600712)
 
 Program Studi Teknik Informatika 
@@ -48,10 +48,18 @@ Jl. Semarang No. 5 Malang 65145
     F-Ship merupakan aplikasi pendistribusian bahan bakar kapal. Pengguna pada aplikasi ini adalah nelayan dan pertamina. 
 2.2 Fungsi-fungsi Perangkat Lunak
 2.3 Karakteristik dan Klasifikasi Pengguna
+    Pengguna perangkat lunak ini adalah nelayan yang menggunakan smartphone untuk melakukan pemesanan bahan bakar kapal. Dan 
+    seorang customer service pertamina yang bertugas melayani pemesanan bahan bakar dari nelayan.
 2.4 Lingkungan Operasi
 2.5 Batasan Desain dan Implementasi
 2.6 Dokumentasi Bagi Pengguna
 2.7 Asumsi dan Ketergantungan
+    Deskripsi asumsi dan kebergantungan
+    Asumsi
+    1. 
+    Kebergantungan
+    1. Sistem informasi hanya dapat diakses secara realtime jika terdapat koneksi internet
+    2. Nelayan harus terdaftar di dalam database untuk mengakses program
 
 3. Deskripsi Kebutuhan
 3.1 Kebutuhan Antarmuka Eksternal
