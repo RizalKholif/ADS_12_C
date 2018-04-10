@@ -21,8 +21,7 @@ Jl. Semarang No. 5 Malang 65145
     F-Ship adalah sebuah perangkat lunak untuk pendistribusian bahan bakar kapal. Aplikasi ini dibuat untuk menghubungkan antara 
     nelayan dan distributor bahan bakar kapan (pertamina). Dengan adanya pendistribusian bahan bakar kapal ini diharapkan dapat
     membantu nelayan agar dapat memberi bahan bakar sesuai kebutuhan dengan harga yang jauh lebih murah sehingga produktivitas
-    dan
-    pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga mendapatkan keuntungan.
+    dan pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga mendapatkan keuntungan.
 1.3 Target Audience
     Dokumen ini ditujukan kepada nelayan dan pertamina sebagai distributor untuk dipahami
     1.3.1 nelayan
@@ -56,16 +55,17 @@ Jl. Semarang No. 5 Malang 65145
 
 3. Deskripsi Kebutuhan
 3.1 Kebutuhan Antarmuka Eksternal
-Perangkat Lunak F-Ship membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
+    Perangkat Lunak F-Ship membutuhkan fasilitas-fasilitas antar muka eksternal sebagai berikut :
 3.1.1 Antarmuka Pemakai
-User interface yang digunakan untuk mengoperasikan Perangkat Lunak F-Ship antara lain :
+    User interface yang digunakan untuk mengoperasikan Perangkat Lunak F-Ship antara lain :
 •	Tampilan awal web
 •	Tampilan pendaftaran
 •	Tampilan sign in
 •	Tampilan form pembelian
 •	Tampilan pelacakan barang
 •	Tampilan metode pembayaran
-Alat – alat yang mendukung antarmuka pemakai adalah sebagai berikut.
+
+    Alat – alat yang mendukung antarmuka pemakai adalah sebagai berikut.
 •	Keyboard
 •	Mouse
 •	Monitor
