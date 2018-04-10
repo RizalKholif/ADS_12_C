@@ -77,9 +77,15 @@ Jl. Semarang No. 5 Malang 65145
 3.1.2 Antarmuka Perangkat Lunak
 Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak antara lain :
 •	Aplikasi dapat diakses jika terhubung dengan jaringan Internet dengan menggunakan web browser.
+•   API E-banking.
 
 5. Kebutuhan
 5.1 Kebutuhan Fungsional
+
+                        https://drive.google.com/open?id=12WZi7bjeojN9Jw2jrO1AJ2qGhmmNodi2
+                        
+                                               Gambar 1. Context Diagram
+                                                    
     •	Pengguna dapat menginput data pada sistem F-SHIP
     •	Pengguna dapat melihat posisi dari pengiriman barang yang telah dikirim
     •	Sistem bekerjasama dengan Bank sebagai media pembayaran untuk pembeli
