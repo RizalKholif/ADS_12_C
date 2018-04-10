@@ -20,7 +20,8 @@ Jl. Semarang No. 5 Malang 65145
 1.2 Lingkup Masalah
     F-Ship adalah sebuah perangkat lunak untuk pendistribusian bahan bakar kapal. Aplikasi ini dibuat untuk menghubungkan antara 
     nelayan dan distributor bahan bakar kapan (pertamina). Dengan adanya pendistribusian bahan bakar kapal ini diharapkan dapat
-    membantu nelayan agar dapat memberi bahan bakar sesuai kebutuhan dengan harga yang jauh lebih murah sehingga produktivitas dan
+    membantu nelayan agar dapat memberi bahan bakar sesuai kebutuhan dengan harga yang jauh lebih murah sehingga produktivitas
+    dan
     pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga mendapatkan keuntungan.
 1.3 Target Audience
     Dokumen ini ditujukan kepada nelayan dan pertamina sebagai distributor untuk dipahami
@@ -34,5 +35,23 @@ Jl. Semarang No. 5 Malang 65145
     SKPL : Spesifikasi Kebutuhan Perangkat Lunak atau
     SRS  : Software Requirement Specification atau
             Adalah dokumen hasil analisis sebuah perangkat lunak yang berisi spesifikasi kebutuhan pengguna
-            
+1.5 Refrensi
+    Berikut adalah daftar acuan yang dik=gunakan dalam pendokumentasian spesifikasi kebutuhan perangkat lunak ini
+    •	IEEE Std. 1233, 1998 Edition IEEE Guide for Developing System RequirementsSpecifications
+    •	IEEE, Software Requirements Engineering, Second Edition, IEEE Computer Society Press, 2002. 
+    •	Bray, Ian K. An Introduction to Requirement Engineering, 1st published, Addison-Wesley, 2002
+    •	Kotonya, Gerald and Sommerville, Ian. Requirement Engineering: Processes and Techniques, John Wiley & Sons Ltd, 1998
+    •	Holil, Achmad. Template: Spesifikasi Kebutuhan Perangkat Lunak, Jurusan Sistem Informasi ITS, 2006.
+1.6 Ikhtisar Dokumen
+
+2. Deskripsi Umum
+2.1 Tentang Perangkat Lunak
+    F-Ship merupakan aplikasi pendistribusian bahan bakar kapal. Pengguna pada aplikasi ini adalah nelayan dan pertamina. 
+2.2 Fungsi-fungsi Perangkat Lunak
+2.3 Karakteristik dan Klasifikasi Pengguna
+2.4 Lingkungan Operasi
+2.5 Batasan Desain dan Implementasi
+2.6 Dokumentasi Bagi Pengguna
+2.7 Asumsi dan Ketergantungan
+
     
