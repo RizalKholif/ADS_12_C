@@ -117,7 +117,15 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
 	Pertamina membuat laporan pengiriman barang
 	Masukan : Data Pengiriman
 	Keluaran : Informasi pengiriman
-
+	
+4.1.2 Deskripsi Data
+4.1.2.1 Kamus Data
+	1. Data Pengguna
+	Berisi deskripsi pembeli yang telah melakukan registrasi. Sepeti nama, no.handphone, email serta alamat pembeli.
+	2. Data Order
+	Ketika user selesai melakukan pemesanan, maka data pemesanan tersebut akan tersimpat pada data store ini. Data_pemesanan akan digunakan oleh bank untuk melakukan validasi proses pembayaran.
+	3. Data pengiriman
+	User dapat melacak pemesanan yang akan tersimpan pada data store ini.
                                             
 5.2 Kebutuhan Non-Fungsional
     •	Sistem memiliki tampilan menarik dan tidak membosankan
