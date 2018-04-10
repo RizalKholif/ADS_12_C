@@ -1,0 +1,25 @@
+SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
+
+Sistem Informasi Pendistribusian Bahan Bakar Kapal (F-SHIP)
+
+
+
+Dipersiapkan oleh:
+Puji Santoso 		(150535601537)
+Putri Yula W 		(150535605564)
+Rizal Kholif Nurrohman (150535600712)
+
+Program Studi Teknik Informatika 
+Jurusan Teknik Elektro
+Jl. Semarang No. 5 Malang 65145
+
+1. Pendahuluan
+1.1	Tujuan 
+    Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SKPL) merupakan spesifikasi kebutuhan perangkat lunak yang akan dikembangkan. 
+    Dokumen ini akan digunakan sebagai acuan teknis untuk ke tahap selanjutnya oleh pengembang. 
+1.2 Lingkup Masalah
+    F-Ship adalah sebuah perangkat lunak untuk pendistribusian bahan bakar kapal. Aplikasi ini dibuat untuk menghubungkan antara 
+    nelayan dan distributor bahan bakar kapan (pertamina). Dengan adanya pendistribusian bahan bakar kapal ini diharapkan dapat
+    membantu nelayan agar dapat memberi bahan bakar sesuai kebutuhan dengan harga yang jauh lebih murah sehingga produktivitas dan
+    pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga mendapatkan keuntungan.
+    
