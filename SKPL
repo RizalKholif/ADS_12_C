@@ -18,10 +18,11 @@ Jl. Semarang No. 5 Malang 65145
     Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SKPL) merupakan spesifikasi kebutuhan perangkat lunak yang akan dikembangkan. 
     Dokumen ini akan digunakan sebagai acuan teknis untuk ke tahap selanjutnya oleh pengembang. 
 1.2 Lingkup Masalah
-    F-Ship adalah sebuah perangkat lunak yang digunakan memudahkan dalam pendistribusian bahan bakar kapal. Aplikasi ini dibuat untuk menghubungkan antara 
-    nelayan dan distributor bahan bakar kapan (pertamina). Dengan adanya pendistribusian bahan bakar kapal ini diharapkan dapat
-    membantu nelayan agar dapat mendapatkan bahan bakar kapal secara mudah sesuai kebutuhan dengan harga yang jauh lebih murah
-    sehingga produktivitas dan pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga mendapatkan keuntungan.
+    F-Ship adalah sebuah perangkat lunak yang digunakan memudahkan dalam pendistribusian bahan bakar kapal. Aplikasi ini dibuat
+    untuk menghubungkan antara nelayan dan distributor bahan bakar kapan (pertamina). Dengan adanya pendistribusian bahan bakar 
+    kapal ini diharapkan dapat membantu nelayan agar dapat mendapatkan bahan bakar kapal secara mudah sesuai kebutuhan dengan 
+    harga yang jauh lebih murah sehingga produktivitas dan pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga
+    mendapatkan keuntungan.
 1.3 Target Audience
     Dokumen ini ditujukan kepada nelayan dan pertamina sebagai distributor untuk dipahami
     1.3.1 Nelayan
@@ -52,10 +53,16 @@ Jl. Semarang No. 5 Malang 65145
 2. Deskripsi Umum
 2.1 Tentang Perangkat Lunak
     F-Ship adalah sebuah perangkat lunak yang digunakan memudahkan dalam pendistribusian bahan bakar kapal. Pengguna pada 
-    aplikasi ini adalah nelayan dan pertamina. 
+    aplikasi ini adalah nelayan dan pertamina. Perangkat lunak ini dapat dijalankan menggunakan username dan password yang telah
+    terdafttar terlebih dahulu. Perangkat lunak ini dapat dijalankan menggunakan perangkat dan platform apapun, tetapi perangkat
+    yang digunakan harus terhubung ke internet. F-Ship akan menyimpan semua data pemesanan bahan bakar kapal yang akan masuk ke 
+    database. 
 2.2 Fungsi-fungsi Perangkat Lunak
     Perangkat lunak ini berfungsi untuk memudahkan nelayan dalam membeli bahan bakar kapal, sehingga nelayan tidak perlu repot-
-    repot untuk membeli bahan bakar kapal
+    repot untuk membeli bahan bakar kapal.
+    Sebagai front office pemesanan yang akan dilaksanakan oleh pengguna (nelayan) dan terkoordinasi dengan back office (CS 
+    pertamina). Program akan terintegrasi melalui sistem informasi product berupa data yang akan terupdate secara real time 
+    dan akan diatur oleh pihak back office.
 2.3 Karakteristik dan Klasifikasi Pengguna
     Pengguna perangkat lunak ini adalah nelayan yang menggunakan smartphone untuk melakukan pemesanan bahan bakar kapal. Dan 
     seorang customer service pertamina yang bertugas melayani pemesanan bahan bakar dari nelayan.
