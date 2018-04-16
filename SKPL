@@ -159,8 +159,11 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
     
 4.3 Atribut Kualitas Perangkat Lunak
 4.3.1 Kehandalan
+      Program ini memiliki kelebihan dalam hal membantu nelayan yang mengalami kesulitan dalam membeli bahan bakar untuk kapal. Maka dari itu dibuatkan program ini untuk menangani distribusi bahan bakar kapal yang kurang merata.
 4.3.2 Keremawatan (Maintability)
+      Program kami merupakan program yang hanya digunakan pada proses yang tidak dinamis jadi maintain pada program tidak begitu di perlukan. 
 4.3.3 Batasan Perancangan
+      Program ini digunakan untuk memberikan pelayanan pada nelayan yang memiliki fungsi utama untuk pemesanan secara real time . Program ini juga dikhususkan untuk membatasi agar tidak terjadi kecurangan dalam proses pemesanan yang mungkin dilakukan pihak nelayan ataupun distributor dan akan merugikan kedua belah pihak, baik dari pihak perusahaan ataupun dari pihak nelayan. Jadi tidak ada program khusus lainnya yang tidak diperlukan.
 4.3.4 Matriks Keterunutan
 
 
