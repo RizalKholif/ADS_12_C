@@ -1,0 +1,12 @@
+Kebutuhan Non-Fungsional
+    •	Sistem berbentuk web yang responsif di semua perangkat
+    •	Sistem dapat dijalankan pada smartphone maupun di komputer
+    •	Sistem mengupdate data tidak lebih dari 10 detik 
+    •	Sistem menjamin data yang diakses oleh pengguna aman
+    • Sistem menyimpan data pada data base yang telah ditentukan
+    
+Kebutuhan Fungsional
+    •	Penggunaa dapat menginputkan jumlah BBM yang akan dibeli
+    •	System dapat menampilkan apakah BBM sudah di kirim atau belum
+    •	Pengguna melakukan transaksi pembelian BBM
+    •	Pengguna dapat melihat posisi BBM yang telah di pesan
