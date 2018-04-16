@@ -165,6 +165,10 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
 4.3.3 Batasan Perancangan
       Program ini digunakan untuk memberikan pelayanan pada nelayan yang memiliki fungsi utama untuk pemesanan secara real time . Program ini juga dikhususkan untuk membatasi agar tidak terjadi kecurangan dalam proses pemesanan yang mungkin dilakukan pihak nelayan ataupun distributor dan akan merugikan kedua belah pihak, baik dari pihak perusahaan ataupun dari pihak nelayan. Jadi tidak ada program khusus lainnya yang tidak diperlukan.
 4.3.4 Matriks Keterunutan
+      SKPL-FSHIP.EVO-00001 Membuat Order
+      SKPL-FSHIP.EVO-00002 Memproses Order
+      SKPL-FSHIP.EVO-00003 Proses Pembayaran
+      SKPL-FSHIP.EVO-00004 Laporan Pengiriman
 
 
     
