@@ -7,7 +7,7 @@ Sistem Informasi Pendistribusian Bahan Bakar Kapal (F-SHIP)
 Dipersiapkan oleh:
 Puji Santoso 		   (150535601537)
 Putri Yula W 		   (150535605564)
-Rizal Kholif Nurrohman (150535600712)
+Rizal Kholif Nurrohman	   (150535600712)
 
 Program Studi Teknik Informatika 
 Jurusan Teknik Elektro
@@ -52,11 +52,17 @@ Jl. Semarang No. 5 Malang 65145
     seorang customer service pertamina yang bertugas melayani pemesanan bahan bakar dari nelayan.
 2.4 Lingkungan Operasi
 2.5 Batasan Desain dan Implementasi
+    Sistem informasi pada perangkat lunak hanya dipakai oleh nelayan dan cs pertamina. Nelayan hanya dapat menggunakan untuk 
+    memesan bahan bakar dan mengecek pelacakan bahan bakar kapal. Dan untuk cs pertamina
+    Dalam perangkat lunak ini terdapat beberapa batasan yang harus dipatuhi. Seperti :
+    a. Saat menggunakan sistem informasi harus terhubung ke internet
+    b. Sistem informasi hanya dapat di pakai oleh akun yang telah terdaftar
 2.6 Dokumentasi Bagi Pengguna
 2.7 Asumsi dan Ketergantungan
     Deskripsi asumsi dan kebergantungan
     Asumsi
-    1. 
+    1. CS pertamina memiliki otoritas secara penuh dalam pengolahan data pemesanan dan ketersediaan bahan bakar kapal
+    2. Perangkat lunak ini dibuat untuk memenuhi 
     Kebergantungan
     1. Sistem informasi hanya dapat diakses secara realtime jika terdapat koneksi internet
     2. Nelayan harus terdaftar di dalam database untuk mengakses program
