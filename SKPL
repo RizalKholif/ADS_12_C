@@ -47,10 +47,13 @@ Jl. Semarang No. 5 Malang 65145
 2.1 Tentang Perangkat Lunak
     F-Ship merupakan aplikasi pendistribusian bahan bakar kapal. Pengguna pada aplikasi ini adalah nelayan dan pertamina. 
 2.2 Fungsi-fungsi Perangkat Lunak
+    Perangkat lunak ini berfungsi 
 2.3 Karakteristik dan Klasifikasi Pengguna
     Pengguna perangkat lunak ini adalah nelayan yang menggunakan smartphone untuk melakukan pemesanan bahan bakar kapal. Dan 
     seorang customer service pertamina yang bertugas melayani pemesanan bahan bakar dari nelayan.
 2.4 Lingkungan Operasi
+    Untuk menggunakan F-Ship ini tidak dibutuhkan hardware dan platform khusus, karena sistem informasi ini berbasis web responsive. Tetapi
+    perangkat yang digunakan oleh pengguna harus terhubung ke internet untuk mengakses sistem informasi ini.
 2.5 Batasan Desain dan Implementasi
     Sistem informasi pada perangkat lunak hanya dipakai oleh nelayan dan cs pertamina. Nelayan hanya dapat menggunakan untuk 
     memesan bahan bakar dan mengecek pelacakan bahan bakar kapal. Dan untuk cs pertamina
