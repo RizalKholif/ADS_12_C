@@ -18,14 +18,14 @@ Jl. Semarang No. 5 Malang 65145
     Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SKPL) merupakan spesifikasi kebutuhan perangkat lunak yang akan dikembangkan. 
     Dokumen ini akan digunakan sebagai acuan teknis untuk ke tahap selanjutnya oleh pengembang. 
 1.2 Lingkup Masalah
-    F-Ship adalah sebuah perangkat lunak untuk pendistribusian bahan bakar kapal. Aplikasi ini dibuat untuk menghubungkan antara 
+    F-Ship adalah sebuah perangkat lunak yang digunakan memudahkan dalam pendistribusian bahan bakar kapal. Aplikasi ini dibuat untuk menghubungkan antara 
     nelayan dan distributor bahan bakar kapan (pertamina). Dengan adanya pendistribusian bahan bakar kapal ini diharapkan dapat
     membantu nelayan agar dapat memberi bahan bakar sesuai kebutuhan dengan harga yang jauh lebih murah sehingga produktivitas
     dan pendapatan nelayan meningkat. Dan pertamina sebagai distributor juga mendapatkan keuntungan.
 1.3 Target Audience
     Dokumen ini ditujukan kepada nelayan dan pertamina sebagai distributor untuk dipahami
-    1.3.1 nelayan
-    1.3.2 pertamina
+    1.3.1 Nelayan
+    1.3.2 Pertamina
 1.4 Definisi, istilah, singkatan
     Guna memberikan gambaran yang sama terhadap beberapa definisi, istilah dan singkatan yang digunakan di dokumen ini, perlu 
     dijelaskan sebagaimana berikut :
@@ -45,9 +45,9 @@ Jl. Semarang No. 5 Malang 65145
 
 2. Deskripsi Umum
 2.1 Tentang Perangkat Lunak
-    F-Ship merupakan aplikasi pendistribusian bahan bakar kapal. Pengguna pada aplikasi ini adalah nelayan dan pertamina. 
+    F-Ship adalah sebuah perangkat lunak yang digunakan memudahkan dalam pendistribusian bahan bakar kapal. Pengguna pada aplikasi ini adalah nelayan dan pertamina. 
 2.2 Fungsi-fungsi Perangkat Lunak
-    Perangkat lunak ini berfungsi 
+    Perangkat lunak ini berfungsi untuk memudahkan nelayan dalam membeli bahan bakar kapal, sehingga nelayan tidak perlu repot-repot untuk membeli bahan bakar kapal
 2.3 Karakteristik dan Klasifikasi Pengguna
     Pengguna perangkat lunak ini adalah nelayan yang menggunakan smartphone untuk melakukan pemesanan bahan bakar kapal. Dan 
     seorang customer service pertamina yang bertugas melayani pemesanan bahan bakar dari nelayan.
@@ -117,12 +117,12 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
 	Masukan : Info Order
 	Keluaran : Laporan order
 4.1.1.3 Proses 3
-    PSPEC 1.3 Proses pembayaran
+    	PSPEC 1.3 Proses pembayaran
 	Pengguna akan menerima konfirmasi pembayaran
 	Masukan : Form pembayaran
 	Keluaran : Konfirmasi pembayaran
 4.1.1.4 Proses 4
-    PSPEC 1.4 Membuat Laporan pengiriman
+    	PSPEC 1.4 Membuat Laporan pengiriman
 	Pertamina membuat laporan pengiriman barang
 	Masukan : Data Pengiriman
 	Keluaran : Informasi pengiriman
@@ -137,13 +137,11 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
 	User dapat melacak pemesanan yang akan tersimpan pada data store ini.
                                             
 5.2 Kebutuhan Non-Fungsional
-    •	Sistem memiliki tampilan menarik dan tidak membosankan
-    •	Sistem dapat dijalankan pada smartphone dengan platform android
+    •	Sistem berbentuk web yang responsif di semua perangkat
+    •	Sistem dapat dijalankan pada smartphone maupun di komputer
     •	Sistem mengupdate data tidak lebih dari 10 detik 
     •	Sistem menjamin data yang diakses oleh pengguna aman
     •	Sistem menyimpan data pada data base yang telah ditentukan
-    •	Smartphone yang digunakan memiliki RAM berkapasitas 1 GB
-    •	Smartphone memiliki memori 8 GB
 
 
     
