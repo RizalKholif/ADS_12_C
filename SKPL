@@ -150,12 +150,18 @@ Antarmuka perangkat lunak yang digunakan untuk mengoperasikan perangkat lunak an
 	3. Data pengiriman
 	User dapat melacak pemesanan yang akan tersimpan pada data store ini.
                                             
-5.2 Kebutuhan Non-Fungsional
+4.2 Kebutuhan Non-Fungsional
     •	Sistem berbentuk web yang responsif di semua perangkat
     •	Sistem dapat dijalankan pada smartphone maupun di komputer
     •	Sistem mengupdate data tidak lebih dari 10 detik 
     •	Sistem menjamin data yang diakses oleh pengguna aman
     •	Sistem menyimpan data pada data base yang telah ditentukan
+    
+4.3 Atribut Kualitas Perangkat Lunak
+4.3.1 Kehandalan
+4.3.2 Keremawatan (Maintability)
+4.3.3 Batasan Perancangan
+4.3.4 Matriks Keterunutan
 
 
     
