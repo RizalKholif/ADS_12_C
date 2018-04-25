@@ -193,6 +193,7 @@ a.morebtn:hover{
 	padding:10em 0 0 0; 
 	min-height:290px;
 	background-size: 100%;
+	left:34%;
 	margin:0 12px;
 	width:31%;
 }
@@ -231,6 +232,29 @@ a.store:hover{
 	border:2px solid #fcff19;
 	color:#fcff19;
 }
+
+/*--Team---*/
+.team-grid{	
+	padding:22em 0 0 0; 
+	min-height:290px;
+	background-size: 100%;
+	left:0%;
+	margin:12px;
+	width:31%;
+}
+.team-grid h4{
+	color:#fcff19;
+	font-size:1.1em;
+	font-weight:600;
+	letter-spacing:1px;
+	margin-bottom:6px;
+} 
+.team-grid p{
+	color:#fff;
+	font-size:1.3em;
+	font-weight:200;
+}
+
 /*--bikes--*/
 .bikes{
 	padding:6em 0 2em 0;
@@ -407,7 +431,7 @@ select{
 }
 /*--footer--*/
 .footer{
-	background:#fcff19;
+	background:#DCDCDC;
 	padding:1.5em;
 }
 .logo2{
