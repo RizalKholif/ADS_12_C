@@ -206,6 +206,9 @@ a.morebtn:hover{
 .grid3{
 	background:url(../images/c3.jpg) no-repeat;
 }
+.grid4{
+	background: url(../images/c4.jpg) no-repeat;
+}
 .cate-grid h4{
 	color:#fcff19;
 	font-size:1.1em;
@@ -243,14 +246,14 @@ a.store:hover{
 	width:31%;
 }
 .team-grid h4{
-	color:#fcff19;
+	color:solid black;
 	font-size:1.1em;
 	font-weight:600;
 	letter-spacing:1px;
 	margin-bottom:6px;
 } 
 .team-grid p{
-	color:#fff;
+	color:solid black;
 	font-size:1.3em;
 	font-weight:200;
 }
