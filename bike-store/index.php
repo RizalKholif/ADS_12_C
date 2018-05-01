@@ -157,19 +157,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		 <h3>LAYANAN KAMI</h3>
 	<div class="bikes-grids">	
 		<div class="categorie-grids">
-			 <div class="col-md-8 services-grid grid2">
+			 <div class="col-md-8 services-grid grid8">
 				 <h4>Pesan Sendiri</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, seddo eiusmod tempor incid.idunt ut labore et dolore magna aliqua.</p>
 			 </div>
-			<div class="col-md-8 services-grid grid3">
+			<div class="col-md-8 services-grid grid6">
 				 <h4>Pelayanan Cepat</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, seddo eiusmod tempor incid.idunt ut labore et dolore magna aliqua.</p>
 			 </div>
-			 <div class="col-md-8 services-grid grid4">
+			 <div class="col-md-8 services-grid grid7">
 				 <h4>Aman & Terpercaya</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, seddo eiusmod tempor incid.idunt ut labore et dolore magna aliqua.</p>
 			 </div>
-			 <div class="col-md-8 services-grid grid4">
+			 <div class="col-md-8 services-grid grid5">
 				 <h4>Efisiensi Waktu</h4>
 				 <p>Lorem ipsum dolor sit amet, consectetur adipisic ing elit, seddo eiusmod tempor incid.idunt ut labore et dolore magna aliqua.</p>
 			 </div>
@@ -179,7 +179,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </div>
 <!--Fitur-->
 <div class="categories">
-
+	<h3>TENTANG KAMI</h3>
+	<div class="bikes-grids">	
+		<div class="about-grid">
+				<p>F-Ship</p>	
+		</div>
+	</div>
+	
 </div>
 <!--endFitur-->
 
