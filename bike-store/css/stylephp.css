@@ -1,0 +1,57 @@
+body{
+	font-family: century gothic;
+	font-size: 14px;
+	background-image:url(pict.jpg);
+}
+
+#utama{
+	width: 300px;
+	margin: 0 auto;
+	margin-top: 5%;
+}
+
+#judul{
+	font-family: channel;
+	padding:15px;
+	text-align: center;
+	color: #fff;
+	font-size: 250%;
+	
+}
+
+#inputan{
+	
+	padding: 20px;
+	
+}
+
+input, select, textarea{
+	padding: 10px;
+	boder: 0;
+}
+textarea {
+	font-family: century gothic;
+	font-size: 13px;
+}
+
+.lg{
+	width: 240px;
+}
+
+.btn{
+	background-color: #fff;
+	border-radius: 10px;
+	color: #000000;
+	margin-top: 5%;
+}
+.btn:hover{
+	background-color: #336666;
+	cursor: pointer;
+}
+
+.btn-right {
+	padding: 10px;
+	text-decoration: none;
+	border-radius: 3px;
+	color: #fff;
+}

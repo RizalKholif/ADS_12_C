@@ -3,5 +3,5 @@
 
 session_destroy();
 
-header("location: /kapal/login.php")
+header("location: /bike-store/login.php")
 ?>

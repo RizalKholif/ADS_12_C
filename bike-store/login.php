@@ -11,54 +11,7 @@ if(@$_SESSION['customer']){
 <html>
 <head>
 	<title>Halaman login</title>
-<style type="text/css">
-body{
-	font-family: century gothic;
-	font-size: 14px;
-	background-image:url(pict.jpg);
-}
-
-#utama{
-	width: 300px;
-	margin: 0 auto;
-	margin-top: 5%;
-}
-
-#judul{
-	font-family: channel;
-	padding:15px;
-	text-align: center;
-	color: #fff;
-	font-size: 250%;
-	
-}
-
-#inputan{
-	
-	padding: 20px;
-	
-}
-
-input{
-	padding: 10px;
-	boder: 0;
-}
-
-.lg{
-	width: 240px;
-}
-
-.btn{
-	background-color: #fff;
-	border-radius: 10px;
-	color: #000000;
-	margin-top: 5%;
-}
-.btn:hover{
-	background-color: #336666;
-	cursor: pointer;
-}
-</style>
+	<link rel='stylesheet' href="css/stylephp.css" />
 </head>
 <body>
 
@@ -77,6 +30,9 @@ input{
 		</div>
 		<div style="margin-top=10px;">
 			<input type="submit" name="login" value="Login" class="btn" />
+			<span style="margin-left:130px;">
+				<a href='register.php' clas="btn-right">Register</a>
+			</span>
 		</div>
 	</form>
 	
