@@ -298,11 +298,18 @@ a.store:hover{
 
 /*--About--*/
 .about-grid{	
-	padding:22em 0 0 0; 
-	min-height:290px;
+	padding:0em 0 0 0em; 
+	min-height:200px;
 	background-size: 100%;
 	margin:12px;
-	width:20%;
+	margin-left: 20%;
+	width:60%;
+}
+.about-grid p{
+	text-align: center;
+	color:solid black;
+	font-size:2em;
+	font-weight:200;
 }
 /*--About--*/
 

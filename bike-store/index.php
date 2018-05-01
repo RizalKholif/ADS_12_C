@@ -183,6 +183,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="bikes-grids">	
 		<div class="about-grid">
 				<p>F-Ship</p>	
+				<p>Kami meberikan pelayanan terbaik</p>
+				<p>F-Ship merupakan website untuk memesan bahan bakar solar yang ditujukan untuk nelayan.</p>\
+				<p>F-Ship membantu nelayan dalam mengatasi masalah sulit dan mahalnya biaya dalam pembelian bahan bakar</p>
 		</div>
 	</div>
 	
