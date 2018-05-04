@@ -76,30 +76,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<input id="mobile_menu" type="checkbox">
 					   <ul class="nav">
 						  <li class="dropdown1"><a href="index.html">BERANDA</a>
-						  </li>
-						  <li class="dropdown1"><a href="parts.html">PARTS</a>
-							 <ul class="dropdown2">
-									<li><a href="parts.html">CHAINS</a></li>
-									<li><a href="parts.html">TUBES</a></li>
-									<li><a href="parts.html">TIRES</a></li>
-									<li><a href="parts.html">DISC BREAKS</a></li>
-							  </ul>
-						 </li>      
-						 <li class="dropdown1"><a href="accessories.html">ACCESSORIES</a>
-							 <ul class="dropdown2">
-									<li><a href="accessories.html">LOCKS</a></li>
-										<li><a href="accessories.html">HELMETS</a></li>
-										<li><a href="accessories.html">ARM COVERS</a></li>
-										<li><a href="accessories.html">JERSEYS</a></li>
-							  </ul>
-						 </li>               
-						 <li class="dropdown1"><a href="404.html">EXTRAS</a>
-							 <ul class="dropdown2">
-									<li><a href="404.html">CLASSIC BELL</a></li>
-									<li><a href="404.html">BOTTLE CAGE</a></li>
-									<li><a href="404.html">TRUCK GRIP</a></li>
-							  </ul>
-						 </li>
+						  </li>               
 						 <li class="dropdown1"><a href="#">TENTANG KAMI</a>
 						  </li>
 						  <li class="dropdown1"><a href="#">BANTUAN</a>
@@ -120,7 +97,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<li><h1>MUDAH, AMAN, DAN TERPERCAYA</h1></li>	
 						  </ul>
 						  <p>Pesan <span>Solar</span> tanpa <span>harus</span> antri </span></p>
-						  <a class="morebtn" href="bicycles.html">PESAN SOLAR</a>
+						  <a class="morebtn" href="single.html">PESAN SOLAR</a>
 					  </div>
 				  </div>
 	 </div>
@@ -136,7 +113,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			 <a href="bicycles.html"><div class="col-md-12 cate-grid grid1">
 				 <h4>SEGERA PESAN</h4>
 				 <p>Hanya dengan Rp 5500/Liter</p>
-				 <a class="store" href="bicycles.html">Pesan Solar</a>
+				 <a class="store" href="single.html">Pesan Solar</a>
 			 </div></a>
 			<!-- <a href="bicycles.html"><div class="col-md-4 cate-grid grid2">
 				 <h4>PREMIMUM SERIES</h4>
