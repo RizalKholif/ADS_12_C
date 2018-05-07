@@ -3,6 +3,8 @@ session_start();
 include "inc/koneksi.php";
 
 if(@$_SESSION['customer']){
+	header("location: cs/indexcs.php");
+} else if(@$_SESSION['user']){
 	header("location: index.php");
 } else {
 ?>
@@ -51,13 +53,17 @@ if(@$_SESSION['customer']){
 			if($cek >= 1){
 				if($data['level'] == "customer"){
 					@$_SESSION['customer'] = $data['kode_user'];
-					header("location: index.php");
+					header("location: cs/indexcs.php");
+				} else if($data['level'] == "user"){
+					@$_SESSION['user'] = $data['kode_user'];
+					header("location: index.php");	
+				}
 			} else {
-				echo "login gagal";
+				?> <script type="Login gagal, username/ password salah. Silahkan coba lagi!");</script> <?php
 			}
 			}
 		}
-	}
+	
 	
 	?>
 	
