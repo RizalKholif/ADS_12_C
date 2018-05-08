@@ -1,2 +1,0 @@
-ALTER TABLE `registrasi` CHANGE `Nama` `Nama` VARCHAR(40) 
-CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL, CHANGE `Tempat Tanggal Lahir` `Tempat Tanggal Lahir` VARCHAR(40) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL, CHANGE `Umur` `Umur` INT(3) NOT NULL, CHANGE `Alamat` `Alamat` VARCHAR(30) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL, CHANGE `Pekerjaan` `Pekerjaan` VARCHAR(20) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL, CHANGE `No. Telepon` `No. Telepon` INT(20) NOT NUL
