@@ -31,16 +31,18 @@ CREATE TABLE IF NOT EXISTS `tb_login` (
   `username` varchar(40) NOT NULL,
   `password` varchar(40) NOT NULL,
   `nama_lengkap` varchar(100) NOT NULL,
-  `level` enum('customer') NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+  `email` varchar(40) NOT NULL,
+  `alamat` text NOT NULL,
+  `level` enum('customer','user') NOT NULL
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `tb_login`
 --
 
-INSERT INTO `tb_login` (`kode_user`, `username`, `password`, `nama_lengkap`, `level`) VALUES
-(1, 'customer', 'customer', 'putri yula', 'customer');
-
+INSERT INTO `tb_login` (`kode_user`, `username`, `password`, `nama_lengkap`, `email`, `alamat`, `level`) VALUES
+(1, 'customer', 'customer', 'putri yula', 'putri.yula@gmail.com', 'jl. sunan muria 9 b2', 'customer');
+(3, 'puji', 'puji', 'puji santoso', 'puji@gmail.com', 'kab.malang', 'user');
 --
 -- Indexes for dumped tables
 --
