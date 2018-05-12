@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 session_start();
 include "inc/koneksi.php";
 
-if(@$_SESSION['customer']){
+if(@$_SESSION['user']){
 ?>
 
 <!DOCTYPE html>
