@@ -20,7 +20,9 @@ Jl. Semarang No. 5 Malang 65145
     menjadikan BBM sebagai sarana produksi yang sangat strategis bagi nelayan. Penyediaan BBM yang memadai, baik dari sisi 
     kuantitas maupun harga, sangat di butuhkan agar nelayan dapat menggunakan BBM sesuai kebutuhan operasionalnya. Tetapi dalam
     realita para nelayan cukup kesulitan untuk mendapatkan bahan bakar. Sehingga kami bertujuan untuk membuat sebuah sistem 
-    informasi pendistribusian bahan bakar kapal untuk mempermudah para nelayan.
+    informasi pendistribusian bahan bakar kapal untuk mempermudah para nelayan. Dengan menggunakan sistem informasi ini nelayan
+    perlu datang ke tempat penjualan BBM yang jaraknya jauh dari tempat nelayan. Sistem informasi yang akan dibuat, nelayan dapat
+    memesan BBM yang digunakan untuk kapal, dan nelayan bisa menunggu pesanannya di rumah yang nantinya akan diantar oleh poihak distributor.
 1.2 Tujuan 
     Dokumen Spesifikasi Kebutuhan Perangkat Lunak (SKPL) merupakan spesifikasi kebutuhan perangkat lunak yang akan dikembangkan. 
     Dokumen ini akan digunakan sebagai acuan teknis untuk ke tahap selanjutnya oleh pengembang. 
