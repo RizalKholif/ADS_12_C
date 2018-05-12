@@ -200,11 +200,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 		<h3>HUBUNGI KAMI</h3>
 		<p>hubungi kami jika ada masalah saat melakukan pemesanan.</p>
-		<form>
-			 <input type="text" placeholder="NAMA" required="">
-			 <input type="text" placeholder="NAMA BELAKANG" required="">			 
-			 <input class="user" type="text" placeholder="USER@DOMAIN.COM" required=""><br>
-			 <textarea placeholder="PESAN"></textarea>
+		<form action='formcontact.php' action='post'>
+			 <input type="text" name ="nama" placeholder="NAMA" required="">
+			 <input type="text" name="namabl" placeholder="NAMA BELAKANG" required="">			 
+			 <input class="user" type="text" name="email" placeholder="USER@DOMAIN.COM" required=""><br>
+			 <textarea placeholder="PESAN" name="pesan"></textarea>
 			 <input type="submit" value="KIRIM">
 		</form>
 	</div>
