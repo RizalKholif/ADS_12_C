@@ -67,7 +67,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	  <div class="container">
 			 <div class="header">
 			       <div class="logo">
-						 <a href="index.html"><img src="images/logo23.png" alt=""/></a>
+						 <a href="index.php"><img src="images/logo23.png" alt=""/></a>
 				   </div>							 
 				  <div class="top-nav">										 
 						<label class="mobile_menu" for="mobile_menu">
@@ -75,7 +75,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</label>
 						<input id="mobile_menu" type="checkbox">
 					   <ul class="nav">
-						  <li class="dropdown1"><a href="index.html">BERANDA</a>
+						  <li class="dropdown1"><a href="index.php">BERANDA</a>
 						  </li>               
 						 <li class="dropdown1"><a href="#">TENTANG KAMI</a>
 						  </li>
